@@ -179,8 +179,6 @@ The assistant operates entirely through local Ollama-hosted vision-language mode
 ## Example Screenshots
 
 ### Dataset Overview
-<img width="1625" height="801" alt="image" src="https://github.com/user-attachments/assets/e05383b8-9633-4956-8a70-4ddcf72f2b68" />
-
 <p align="center">
   <img width="1625" height="801" alt="image" src="https://github.com/user-attachments/assets/e05383b8-9633-4956-8a70-4ddcf72f2b68" />
 </p>
@@ -188,8 +186,10 @@ The assistant operates entirely through local Ollama-hosted vision-language mode
 ---
 
 ### ScanRegion Morphology Overlay
-
-Include screenshot from Tab 2.
+<p align="center">
+  <img width="1910" height="470" alt="image" src="https://github.com/user-attachments/assets/9a6971eb-e2fa-4f45-9457-d30728e71c23" />
+  <img width="1910" height="877" alt="image" src="https://github.com/user-attachments/assets/32b770fb-59ce-4225-a0ca-f9b54dd7c8e0" />
+</p>
 
 ---
 
