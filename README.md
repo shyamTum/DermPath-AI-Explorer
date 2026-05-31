@@ -209,14 +209,14 @@ The assistant operates entirely through local Ollama-hosted vision-language mode
 ---
 
 ### UMAP Morphology Landscape
-
-Include screenshot from Tab 5.
-
+<p align="center">
+  <img width="1561" height="148" alt="image" src="https://github.com/user-attachments/assets/af6a364a-78f1-4e8b-b117-739e01c9b766" />
+  <img width="3000" height="2400" alt="image" src="https://github.com/user-attachments/assets/1c01b0b9-9410-4692-ac3d-b237ac06fe73" />
+</p>
 ---
 
 ### AI Morphology Assistant
 
-Include screenshot from Tab 7.
 
 ---
 
