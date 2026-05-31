@@ -179,8 +179,11 @@ The assistant operates entirely through local Ollama-hosted vision-language mode
 ## Example Screenshots
 
 ### Dataset Overview
+<img width="1625" height="801" alt="image" src="https://github.com/user-attachments/assets/e05383b8-9633-4956-8a70-4ddcf72f2b68" />
 
-Include screenshot from Tab 1.
+<p align="center">
+  <img width="1625" height="801" alt="image" src="https://github.com/user-attachments/assets/e05383b8-9633-4956-8a70-4ddcf72f2b68" />
+</p>
 
 ---
 
