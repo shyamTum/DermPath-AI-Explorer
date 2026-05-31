@@ -372,7 +372,7 @@ Start server:
 ollama serve
 ```
 
-Default endpoint:
+For example the default endpoint:
 
 ```text
 http://localhost:11434
@@ -385,7 +385,7 @@ http://localhost:11434
 Launch:
 
 ```bash
-python app/app_gradio.py
+python 9_app_skin_histology_ai_with_AI_3.py
 ```
 
 Open:
