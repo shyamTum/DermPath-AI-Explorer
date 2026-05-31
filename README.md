@@ -8,7 +8,8 @@ AI-assisted dermatopathology image exploration using foundation-model embeddings
 
 DermPath-AI-Explorer is an interactive AI platform for exploring dermatopathology H&E whole-slide image regions. The system converts ZEISS CZI scan regions into tissue patches, extracts DINOv2 foundation-model embeddings, organizes tissue morphology into visual clusters, retrieves similar image regions, visualizes morphology distributions using UMAP, and provides AI-assisted morphology interpretation through a local vision-language model.
 
-The goal is to help researchers efficiently explore large-scale dermatopathology datasets, discover morphological patterns, understand tissue heterogeneity, and interactively investigate image regions through an AI-assisted workflow.
+The goal is to help researchers efficiently explore large-scale dermatopathology datasets, discover morphological patterns, understand tissue heterogeneity, and interactively investigate image regions through an AI-assisted workflow. 
+#### Please check till bottom to get the whole view of the project.
 
 ---
 
@@ -176,16 +177,16 @@ The assistant operates entirely through local Ollama-hosted vision-language mode
 
 ---
 
-## Example Screenshots
+# Example Screenshots
 
-### Dataset Overview
+## Dataset Overview
 <p align="center">
   <img width="1625" height="801" alt="image" src="https://github.com/user-attachments/assets/e05383b8-9633-4956-8a70-4ddcf72f2b68" />
 </p>
 
 ---
 
-### ScanRegion Morphology Overlay
+## ScanRegion Morphology Overlay
 <p align="center">
   <img width="1910" height="470" alt="image" src="https://github.com/user-attachments/assets/9a6971eb-e2fa-4f45-9457-d30728e71c23" />
   <img width="1910" height="877" alt="image" src="https://github.com/user-attachments/assets/32b770fb-59ce-4225-a0ca-f9b54dd7c8e0" />
@@ -193,7 +194,7 @@ The assistant operates entirely through local Ollama-hosted vision-language mode
 
 ---
 
-### Global Morphology Cluster Explorer
+## Global Morphology Cluster Explorer
 <p align="center">
   <img width="1253" height="822" alt="image" src="https://github.com/user-attachments/assets/6d71ec73-88a6-4726-87d9-4eb466796ed7" />
   <img width="1254" height="510" alt="image" src="https://github.com/user-attachments/assets/6bb259d8-82f2-4cb6-859d-47db41122075" />
@@ -201,21 +202,25 @@ The assistant operates entirely through local Ollama-hosted vision-language mode
 
 ---
 
-### Similar Patch Retrieval
+## Similar Patch Retrieval
 <p align="center">
   <img width="1572" height="830" alt="image" src="https://github.com/user-attachments/assets/a4271b3a-86d5-42b0-a675-1dc847b8d2ce" />
   <img width="1571" height="892" alt="image" src="https://github.com/user-attachments/assets/29e5b40e-b11c-4152-8a36-3a325e9adb71" />
 </p>
 ---
 
-### UMAP Morphology Landscape
+## UMAP Morphology Landscape
 <p align="center">
   <img width="1561" height="148" alt="image" src="https://github.com/user-attachments/assets/af6a364a-78f1-4e8b-b117-739e01c9b766" />
   <img width="3000" height="2400" alt="image" src="https://github.com/user-attachments/assets/1c01b0b9-9410-4692-ac3d-b237ac06fe73" />
 </p>
 ---
 
-### AI Morphology Assistant
+## AI Morphology Assistant
+<p align="center">
+  <img width="1757" height="635" alt="image" src="https://github.com/user-attachments/assets/94d8998c-b7a6-4667-9104-dbf484d3d0ed" />
+  <img width="1764" height="875" alt="image" src="https://github.com/user-attachments/assets/99983ab2-da1f-4b05-aa82-bcd6ce358cf1" />
+</p>
 
 
 ---
