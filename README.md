@@ -194,6 +194,11 @@ The assistant operates entirely through local Ollama-hosted vision-language mode
 ---
 
 ### Global Morphology Cluster Explorer
+<p align="center">
+  <img width="1253" height="822" alt="image" src="https://github.com/user-attachments/assets/6d71ec73-88a6-4726-87d9-4eb466796ed7" />
+  <img width="1254" height="510" alt="image" src="https://github.com/user-attachments/assets/6bb259d8-82f2-4cb6-859d-47db41122075" />
+</p>
+
 
 Include screenshot from Tab 3.
 
