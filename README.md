@@ -199,15 +199,13 @@ The assistant operates entirely through local Ollama-hosted vision-language mode
   <img width="1254" height="510" alt="image" src="https://github.com/user-attachments/assets/6bb259d8-82f2-4cb6-859d-47db41122075" />
 </p>
 
-
-Include screenshot from Tab 3.
-
 ---
 
 ### Similar Patch Retrieval
-
-Include screenshot from Tab 4.
-
+<p align="center">
+  <img width="1572" height="830" alt="image" src="https://github.com/user-attachments/assets/a4271b3a-86d5-42b0-a675-1dc847b8d2ce" />
+  <img width="1571" height="892" alt="image" src="https://github.com/user-attachments/assets/29e5b40e-b11c-4152-8a36-3a325e9adb71" />
+</p>
 ---
 
 ### UMAP Morphology Landscape
